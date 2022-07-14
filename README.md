@@ -15,7 +15,7 @@ SILAKAN INSTALL PERINTAH DI BAWAH 👇👇👇
 🎀 cd loopV1
 🎀ls
 🎀git pull
-🎀python allay.py
+🎀python halal.py
 
 
 
